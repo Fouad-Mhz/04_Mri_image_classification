@@ -37,7 +37,6 @@ You should have Docker installed on your machine to use this model.
 - The model file should be located in the directory specified by the `MODEL_DIR` environment variable.
 - The test image should be located in the directory specified by `TEST_DIR`.
 - The name of the test image should match `TEST_NAME` as defined in the `run.sh` script.
-- The Docker image name (`IMAGE_NAME_MP`) should be the same in both Bash scripts.
 - Always remember to grant execute permissions to your Bash scripts before running them.
 - Ensure that Docker is installed and running on your system.
 - To modify the `MODEL_DIR` and `MODEL_NAME` environment variables, adjust them in the operating system where Docker is running. These variables denote the location and name of the model used for prediction.
