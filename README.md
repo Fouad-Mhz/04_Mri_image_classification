@@ -6,6 +6,7 @@ This project uses a deep learning model to classify MRI scans into different pha
 ## Prerequisites
 
 You should have Docker installed on your machine to use this model.
+you will need to download the model: https://drive.google.com/file/d/1-77OVZFZwxeh-JkJZGC9VLxZx1eamBa1/view?usp=sharing
 
 ## Steps to Run
 
@@ -35,6 +36,7 @@ You should have Docker installed on your machine to use this model.
 
 - Your Dockerfile should be located in the same directory as your Bash scripts.
 - The model file should be located in the directory specified by the `MODEL_DIR` environment variable.
+- download the model: https://drive.google.com/file/d/1-77OVZFZwxeh-JkJZGC9VLxZx1eamBa1/view?usp=sharing
 - The test image should be located in the directory specified by `TEST_DIR`.
 - The name of the test image should match `TEST_NAME` as defined in the `run.sh` script.
 - Always remember to grant execute permissions to your Bash scripts before running them.
