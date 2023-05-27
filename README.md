@@ -1,7 +1,7 @@
 # README
 
 ## Description
-This project uses a deep learning model to classify MRI scans into different phases: 'EO', 'IO', 'IPTE', 'LO', and 'PTE'. The MRI scans should be in '.jpg' format.
+This project uses a deep learning model to classify MRI scans into different phases: 'EO', 'IO', 'IPTE', 'LO', and 'PTE'.
 
 ## Prerequisites
 
