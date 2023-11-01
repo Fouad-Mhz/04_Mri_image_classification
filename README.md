@@ -6,7 +6,7 @@ This project uses a deep learning model to classify MRI scans into different pha
 ## Prerequisites
 
 - You should have Docker installed on your machine to use this model.
-- You will need to download the model: https://drive.google.com/file/d/1-77OVZFZwxeh-JkJZGC9VLxZx1eamBa1/view?usp=sharing
+- You will need to download the model:
 
 ## Steps to Run
 
